@@ -1,2 +1,3 @@
 # react-native-weather-app
-Weather App with React Native
+
+![alt text](http://tuanitpro.com/wp-content/uploads/2017/05/weather-app-react-native.png)
